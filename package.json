@@ -22,7 +22,7 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  },
+  }, \
   "repository": {
     "type": "git",
     "url": "https://github.com/elbala2/atomutils.git"
