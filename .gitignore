@@ -5,6 +5,5 @@
 .env.test.local
 .env.production.local
 
-coverage
 dist
 node_modules
