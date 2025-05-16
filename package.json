@@ -15,14 +15,14 @@
     "test:coverage": "vitest run --coverage",
     "lint": "eslint src/**/*.ts",
     "format": "prettier --write \"src/**/*.ts\"",
-    "prepublishOnly": "npm run test:coverage && npm run build"
+    "prepublishOnly": "vitest run && npm run build"
   },
   "keywords": ["typescript", "utilities", "tools", "object-utils"],
-  "author": "",
+  "author": "elbala2",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  }, \
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/elbala2/atomutils.git"
