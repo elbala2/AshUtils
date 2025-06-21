@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elbala2/atomutils.git"
+    "url": "https://github.com/elbala2/AshUtils.git"
   },
   "devDependencies": {
     "@types/node": "^20.10.5",
