@@ -1,5 +1,5 @@
 {
-  "name": "@elbala2/atomutils",
+  "name": "ash-utils",
   "version": "1.0.1",
   "description": "Colección de utilidades diversas en TypeScript",
   "main": "dist/index.js",

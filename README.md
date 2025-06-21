@@ -1,21 +1,21 @@
-# AtomUtils
+# AshUtils
 
 Colección de utilidades diversas en TypeScript para manipulación de objetos y más.
 
 ## Instalación
 
 ```bash
-npm install atomutils
+npm install ash-utils
 # o
-yarn add atomutils
+yarn add ash-utils
 # o
-pnpm add atomutils
+pnpm add ash-utils
 ```
 
 ## Uso
 
 ```typescript
-import { Object } from 'atomutils';
+import { Object } from 'ash-utils';
 
 // Manipulación de objetos
 const obj = {
